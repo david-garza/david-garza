@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @david-garza
 
-- 👀 I’m interested in data analytics, data, visualizations, and applications. I also enjoy playing and learning about modifications in computer simulators such as X Plane and Kerbal Space program. I have always had an interest in space science and I hold a private pilot certificate.
+- 👀 I’m interested in data analytics, data, visualizations, and applications. 
 
-- 🌱 I’m currently learning data analytics using python via an online bootcamp. I am also self learning C++ just because I want to learn more about computer science.
+- 🌱 I’m currently learning python and Pandas to add skils to my data analytics tool kit. I am also learning C++ to strengthen my understanding of computer science in general.
 
-- 💞️ I’m looking to collaborate on data analtyics projects and simulations.
+- 💞️ I’m looking to collaborate on data analtyics in the fields of aerospace, medicine, and social sciences.
 
 - 📫 How to reach me david.c.garza@outlook.com
 
